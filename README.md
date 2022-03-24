@@ -1,36 +1,20 @@
 # Welcome 👋
 
 ## About Me:
-My name is Mason. I am interested in Computer Vision, Speech Processing, Signal Processing, Deep Learning, and Complexity. In this GitHub you will find projects in Python, C, and C++.
+💻Good luck to all at Uncommon Hacks 2022!
+🐧My name is Mason. I am interested in Computer Vision, Signal Processing, Deep Learning, and Complexity. In this GitHub you will find projects in Python, C, and C++.
 
-I am graduating from the University of Chicago in June 2022, with a BS in Computer Science with a specialization in Machine Learning. I am double majoring in CS and Math. I am an incoming EE student at Stanford.
+📕I am graduating from the University of Chicago in June 2022, with a BS in Computer Science with a specialization in Machine Learning. I am double majoring in CS and Math. I am an incoming EE student at Stanford.
 
 <img src="https://user-images.githubusercontent.com/19668706/160010073-0a889cd7-fcf5-4473-a93f-a6fbf961cb1d.png" width="34%"></img> <img src="https://user-images.githubusercontent.com/19668706/160010152-4f1b25af-835c-405e-86ff-7377df4c4437.png" width="28%"></img> <img src="https://user-images.githubusercontent.com/19668706/160011844-84669d20-0eac-46fd-b2c6-0b3fe61b6e9c.png" width="34%"></img> <img src="https://user-images.githubusercontent.com/19668706/160009857-f8268ae7-aa44-4cb6-be83-1a9697a1327e.png" width="25%"></img> <img src="https://user-images.githubusercontent.com/19668706/160009855-369921c3-94a3-433c-a5d5-8e0fca6b0b35.png" width="25%"></img> 
 
-The pictures above are a sample of some of my projects. They include image-to-image translations with a Cycle Generative Adversarial Network, Object Detection and Feature mapping, creating an equalizer using C++ and the JUCE framework, and building a game in C# and Unity.
+💎The pictures above are a sample of some of my projects. They include image-to-image translations with a Cycle Generative Adversarial Network, Object Detection and Feature mapping, creating an equalizer using C++ and the JUCE framework, and building a game in C# and Unity.
 
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+📔I am interested in doing research in Speech Recognition, Audio Scene recognition, multimodal learning, and other fields.
 
-<h3 align="center">project_title</h3>
+Please contact me at masonlwang32 at gmail dot com for inquiries.
 
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
-</div>
-
+### 💻Good luck to all at Uncommon Hacks 2022!
 
 <!--
 **maswang32/maswang32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
