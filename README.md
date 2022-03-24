@@ -7,6 +7,8 @@ I am graduating from the University of Chicago in June 2022, with a BS in Comput
 
 <img src="https://user-images.githubusercontent.com/19668706/160010073-0a889cd7-fcf5-4473-a93f-a6fbf961cb1d.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/19668706/160009855-369921c3-94a3-433c-a5d5-8e0fca6b0b35.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/19668706/160009852-5638d81a-563e-407b-9cae-9fbb7d449652.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/19668706/160009857-f8268ae7-aa44-4cb6-be83-1a9697a1327e.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/19668706/160010152-4f1b25af-835c-405e-86ff-7377df4c4437.png" width="15%"></img> 
 
+<img src="https://user-images.githubusercontent.com/19668706/160010073-0a889cd7-fcf5-4473-a93f-a6fbf961cb1d.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/19668706/160010152-4f1b25af-835c-405e-86ff-7377df4c4437.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/19668706/160011844-84669d20-0eac-46fd-b2c6-0b3fe61b6e9c.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/19668706/160009857-f8268ae7-aa44-4cb6-be83-1a9697a1327e.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/19668706/160009855-369921c3-94a3-433c-a5d5-8e0fca6b0b35.png" width="45%"></img> 
+
 The pictures above are a sample of some of my projects. They include image-to-image translations with a Cycle Generative Adversarial Network, Object Detection and Feature mapping, and creating an equalizer using C++ and the JUCE framework
 
 <br />
