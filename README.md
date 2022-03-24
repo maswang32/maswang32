@@ -1,7 +1,6 @@
 # Welcome 👋
 
 ## About Me:
-💻Good luck to all at Uncommon Hacks 2022!
 🐧My name is Mason. I am interested in Computer Vision, Signal Processing, Deep Learning, and Complexity. In this GitHub you will find projects in Python, C, and C++.
 
 📕I am graduating from the University of Chicago in June 2022, with a BS in Computer Science with a specialization in Machine Learning. I am double majoring in CS and Math. I am an incoming EE student at Stanford.
